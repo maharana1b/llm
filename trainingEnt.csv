@@ -1,0 +1,1365 @@
+,input,results
+0,"utterance:  with reference kindly reverse my extra amount of 23914 to my bank account . you deducted the upcoming emi from this amount . i ll pay on the date of emi . here is the details of my account . name - ranjeeta syal account no - 36870100003417 type - saving ifsc code - barb0goverd ( fifth letter is zero ) 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 36870100003417,
+Refund Amount : 23914, 
+Payment Date : Date of EMI
+"
+1,"utterance:  credit card this is andru satish babu bearing account no 10061561574 having savings account & credit card no 4405 * * * * * * * * 9945 in your bank do hereby request you to do reversal of 426,900.42 deducted towards credit card payment . this is to inform you that i have already made the payment for 998,298.64 which is full outstanding amount but still my account was auto debited with remaining balance in my account . kindly treat this as high priority request and do the reversal at the earliest possible . thanking you andru satish babu payment date is 15/09/2023 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10061561574,
+Refund Amount : 426,900.42, 
+Payment Date : 15/09/2023
+"
+2,"utterance: about refund credit card payment sir/ i made a payment in my idfc credit card last night i.e . 04/11/22 of amount 3,450 . i did it by mistake so that i request plz refund same payment in following a/cdetails name- gaurav bhalerao bank- baroda bank a/c no- 30110100008656 ifsc code - barb0genpun 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 30110100008656,
+Refund Amount : 3,450, 
+Payment Date : 04/11/22
+"
+3,"utterance: accept refund customer i d 509405449412 resister mobile no 9819892056 i do by mistakely three times credit card payments amount is 7890.68 cancel check on yesterday 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 509405449412,
+Refund Amount : 7890.68, 
+Payment Date : yesterday
+"
+4,"utterance: acces amount refund of 10000 idfc bank credit card plz find my account details and refund my access amount in this account name syed mubeen ghouri account number 50100057455924 ifsc code - hdfc0000968hdfc bank gachi bowli hyderabad [ cid 1849482624a77e5c2641 ] which was done 2 days back. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 50100057455924,
+Refund Amount : 10000, 
+Payment Date : 2 days back
+"
+5,"utterance: access amount reversal myself akshay rathod i have made access amount of rs 32000 to my credit card by mistake on 12th of november so kindly reverse my amount below mentioned ac details and find my bank statement has been attached with this mail kindly do the needful asap bank name . hdfc bank account no .50100214994242 ifsc code . hdfc0000667 account name . akshay rajendra rathod 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 50100214994242,
+Refund Amount : 32000, 
+Payment Date : 12th of november
+"
+6,"utterance: access amt payment i am mohammad ateeq ahmed your credit card customer i pay in access amount payment in idfc credit card plz return amount of 1 lakh rupees in my axis bank account cancel cheque below copy attached my mobile number link idfc credit card 6304142569 my account number 12345678901 which was done last week 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  1 lakh, 
+Payment Date : last week
+"
+7,"utterance: access balance refund idfc please refund access balance of my millennia credit card card holder name - daleep kumar card no - 4399920010475812 name - daleep kumar bank - icici a/c no - 663001702266 ifsc- icic0000332 bank statement password is my account no 663001702266 with amount twenty five thousand on 12.3.2023 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 663001702266,
+Refund Amount :  twenty five thousand, 
+Payment Date : 12.3.2023
+"
+8,"utterance: amount auto detection respected my name balakrishnan 8/2/23 this is my date for my last credit card due the amount is 22005.14 rs i pay full amount and settle after few hours in my account have 3452.89 rs without reason auto debit i pay all credit card due date without day exist . pls reply and debit my amount thank you a/c no - 663001702266 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 663001702266,
+Refund Amount :  3452.89, 
+Payment Date : 8/2/23
+"
+9,"utterance: amount refund request account number 12345678901 ( 1lakh ) i have done the below payments towards credit card payment of idfc bank on 8/2/23 transaction 1 1 lakh from union bank via cred transaction 2 1.35 lakhs from idfc first bank i was supposed to pay balance amount of 35886 only towards the credit card . by mistake transfered full amount again . i request you to look into the same & reverse 1 lakh amount to my idfc bank account as mentioned in the attachment . your customer care executive informed me to share the same for processing the amount . kindly do the needful . 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  1 lakh, 
+Payment Date : 8/2/23
+"
+10,"utterance: auto debit of payment all this is to inform you that i have paid my credit card bill online amount rs 26502 but due to auto debit option it was debited from account also .. so kindly look into the matter and refund the amount.my card ending number is account number 12345678901 on 8/2/23  
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  26502, 
+Payment Date : 8/2/23
+"
+11,"utterance: account number 12345678901 on 8/2/23  auto debited overpayed credit card respected idfc i have charged extra amount in my credit card where my limit is 57000 and now charging me extra 9033 . 95 from my idfc saving account and credit limit is 67033.95 which i don t want i want it to revert back to my saving account asap . 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  9033 . 95, 
+Payment Date : 8/2/23
+"
+12,"utterance: bimistakenly 95000 paid from cred app requesting you to reverse back the amount which i have paid of 95000 out of which 20000 is been used remaining amount of 74422 please reverse it to my same source account from which it was paid also statement has been attached for the same attachings the screenshot for the same account number 12345678901 on 8/2/23  
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  95000, 
+Payment Date : 8/2/23
+"
+13,"utterance: cancelled cheque for credit card excess amount refund idfc kindly check the attached cancelled cheque for credit card excess amount refund 12456.72 . find the request number we have successfully closed your request on excess refund to source account for card ending with with on under service request 1033100809 idfc first bank . which was done by 11/7/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 1033100809,
+Refund Amount :  12456.72, 
+Payment Date : 11/7/23
+"
+14,"utterance: card closer i want close my card for but before back i want my access payment refund for 214 rupees in my savings account so i attaching my savings account statement so please kindly to the needful on same as early as possible . account number 12345678901 on 8/2/23  
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :   214, 
+Payment Date : 8/2/23
+"
+15,"utterance: card due payment related i have made an advance payment of 11000 rupees on 11th october 2022 towards my credit card # 1348 which is showing credited on 11th october itself as per card statement . however once again an amount of 7705.78 was debited from my savings account on 12th october 2022. usually when dues are paid in advance the auto debit/si does not get executed as per my previous experience with idfc first bank . i would request you to provide me reversal of amount 7705.78 to my savings account as there is excess credit in my card account . account number 12345678901 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  7705.78, 
+Payment Date : 11th october 2022
+"
+16,"utterance:  account number 12345678901 on 8/2/23  i want refund of my excess balance of 34587.12 .please proceed 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  34587.12, 
+Payment Date : 8/2/23
+"
+17,"utterance: card no 4281 0210 0331 4323 card no 4281 0210 0331 4323 i have made excess payment of rs.1,00,000 on 12th january to my credit card reason i have made the payment of rs.1,00,000 on 11th january from cred application it was showing failed and yesterday was due date so made additional payment please note that bank statement is showing inr 99,896.00 as balance was paid from cred application dont get confused with the amount i have also attached credit screen shot pls refund 1,00,000 to the bank account bank account 00011140091822 ifsc code hdfc0000001 i have attached the cancelled cheque bank statement showing debit and credit screen shot if any issue call me on 9664122630 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 00011140091822,
+Refund Amount :  1,00,000, 
+Payment Date : 11th january
+"
+18,"utterance: case id 103914011 /madam pls find attached citi bank statement reflecting 850,000 rs debited towards idfc credit card this transaction was done accidently and i request you to please refund the amount to source account citi bank . statement is password protected 0p0x3cjug3jst and snapshot is included here below . ac. no - 12345678901 , paid by 8.12.23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  850,000, 
+Payment Date : 8.12.23
+"
+19,"utterance: cc bill debited twice / savings bank a/c no . - 10061558856 credit card no . - 4281 0210 1200 7611 i have paid the full bill amount on 11.01.2023 and it has been again debited from my linked .sb a/c request to credit the full amount ( rs . 27410.21 ) to my sb a/c debited second time . thanking you paresh nath kundu -- 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10061558856,
+Refund Amount :  27410.21, 
+Payment Date : 11.01.2023
+"
+20,"utterance: closer of idfc first bank credit card / i abhijit nandy having idfc first bank credit card no 4281-0210-0328-2157 holding with me and i wish close this credit card at the earliest and any credit balance around rs.532 should be return back to my following bank account - icici bank limited account holder name abhijit nandy account no 003901235547 ifsc code icic0000915 micr code 411229023 kindly do the needful . if any problem i can be contacted both no with me +91-9835857062 +91-9422555932 whch was done yesterday 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 003901235547,
+Refund Amount :  532, 
+Payment Date : yesterday
+"
+21,"utterance: closure of credit card sir/ma am i would like to request you to close my credit card due to certain personal reasons . kindly transfer my excess amount in credit card oh 50 rupees to below mentioned account - name - madhusmita sarma bank - central bank of india account no - 3400611221 ifsc- cbin0283064 please find my credit card details below - name - madhusmita sarma bank - idfc first bank account no - 20100000684567 kindly do the needful at the earliest .on 9/2/22023 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 20100000684567,
+Refund Amount :  50, 
+Payment Date :  9/2/22023
+"
+22,"utterance: closure of credit card i wanted to close my credit card so called the customer service they said me that i have to send my bank details so that the excess amount can be transferred back to me after that only they can close the credit card so i am sending the details kindly have a look . service request number 1031691515 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  95000, 
+Payment Date : 8/2/23
+"
+23,"utterance: closure of credit card membership i would like to close my credit card membership at idfc first bank . all my outstanding dues are paid and i have an outstanding credit balance of inr 101. requesting you refund the same in my savings account held with idfc . kindly do the needful and feel free to contact me in case of any queries . details of ccount number 4015610009372450 card type first millennia name on the card priyank mehta on 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 401561000937,
+Refund Amount :  101, 
+Payment Date : 8/2/23
+"
+24,"utterance: credit kindly process credit of rs . 1350.16 from my idfc credit card 4281021006540296 to my idfc bank account 10061533308 . Payment Date : 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10061533308,
+Refund Amount :  1350.16, 
+Payment Date : 8/2/23
+"
+25,"utterance: credit balance refund kindly refund my credit balance available in my credit card account in following bank account name manan narendra jariwala bank name kotak mahindra bank bank account number 1814733948 ifsc code kkbk0000871 -- have a nice day manan n jariwala - amount of 95000 on Payment Date : 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 1814733948,
+Refund Amount :  95000, 
+Payment Date : 8/2/23
+"
+26,"utterance: Payment Date : 8/2/23 credit balance refund of credit card 8249 kindly process the credit balance refund of rs1500/ on my credit card ending with 8249 to my savings account with you of account number 123456789011 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 123456789011,
+Refund Amount :  1500, 
+Payment Date : 8/2/23
+"
+27,"utterance: credit balance refund request my credit card ending with 8270 has inr 7513 credit balance as per my last statement . kindly initiate refund of the excess balance to the below account . name of account holder - justin ajay raj bank name - idfc first bank acc no . - 100 4533 4969 ifsc - idfb0080156 please confirm once the transfer is done .  8/2/23- this is the date. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 100 4533 4969,
+Refund Amount :  7513, 
+Payment Date : 8/2/23
+"
+28,"utterance: credit balance transfer total credit balance in my credit card account is 15503.40 /- request you to refund that amount in below mentioned bank account - name of account holder - archan dutta bank name - punjab national bank bank account number - 0155010648448 ifsc code - punb0015520 bank statement attached and password would be the bank account number ( 0155010648448 ) . please let me know if you need any other information . date is on 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0155010648448,
+Refund Amount :  15503.40, 
+Payment Date : 8/2/23
+"
+29,"utterance: credit balance transfer request - credit card to saving account my name is suneel kumar reddy yaramaka and i have a credit card with idfc and credit card number is 4281 0210 0922 9251. recently i have paid extra amount as part of my payment . now i have credit balance in my credit card . requesting you to transfer that credit balance to my idfc savings account . here my saving account details are given below . account number - 10003200060 ifsc code - idfb0080102 customer id - 1015002981 please transfer my credit card credit balance to my savings account and let me know if you need any other details . amount of 95000 , date 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10003200060,
+Refund Amount :  95000, 
+Payment Date : 8/2/23
+"
+30,"utterance: account number - 12345678901 - payment made on 11oct 22 and 13oct 22 i have made the payment for rs.1,90,000/- on 11oct thru net banking from my hdfc bank account where my card payment was due on 12 oct. i called your back office they said its not reflecting . so today on 13 oct again i made the payment for rs.1,90.000/- . thru net banking . i just saw my hdfc bank statement where its reflecting 2 times i have made the payment to idfc credit card . request you to kindly refund me the amount for rs.1,90,000/- as its paid twice . my account details shafi tamboli hdfc bank ltd branch i c colony account no 04101870000862 ifsc code hdfc0000410 attached is my hdfc bank statement for your reference where u can see 2 entries paid on 11oct for rs.1,90,000/- and 13oct . for rs.1,90,000/- . my credit card details name shafi ismail tamboli card number 4281 0210 1855 1133. request you to please check and kindly acknowledge . 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  1,90,000, 
+Payment Date : 13 oct 22
+"
+31,"utterance: credit card - positive credit refund good day . i have a credit balance of 8297.14 in my credit card can you please refund it back to my idfc savings account . Date - 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  8297.14, 
+Payment Date : 8/2/23
+"
+32,"utterance: credit card auto debit wrong amount as per telephonic discussion held with your representative on 12-02-2023 sent a email link to resolve my credit card issue . my last credit card uses was 215 but auto debit was 915 from my saving account . kindly check this issue and refund my extra debited rs 700/- in my saving account . a/c num 12345678901 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  700, 
+Payment Date : 12-02-2023
+"
+33,"utterance: credit card balance amount transfer request kindly transfer the balance amount to my account details mentioned below . a/c name chandrachari bank name bank of baroda a/c number 67120100000316 ifsc code barb0vjsarj also find attachment of cancelled cheque . excess amount rs 4023.69 kindly do the needful .dat 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 67120100000316,
+Refund Amount :  4023.69, 
+Payment Date : 8/2/23
+"
+34,"utterance: credit card balance refund customer support please deposit the credit card balance amount of rs 507 in my savings account attached with the account number 12345678901 . Date 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  507, 
+Payment Date : 8/2/23
+"
+35,"utterance: credit card balance refund as per the last statement dated 21-01-23 i have a credit balance of 2989.63 in my credit card account request for a refund of the excess balance . Ac. No 12345678901 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 12345678901,
+Refund Amount :  2989.63, 
+Payment Date : 21-01-23
+"
+36,"utterance: date of the payment is 8/2/23 credit card balance refund i am writing this email to credit my credit card balance amount to savings account . please find the below details and attachment . name mr. kiran kumar muthu krishnan account number 10092707494 ifsc idfb0080132 bank name idfc first branch perambur branch amount is 3456.78 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10092707494,
+Refund Amount :  3456.78, 
+Payment Date : 8/2/23
+"
+37,"utterance: credit card balance refund request i am an idfc first bank credit card holder and have a credit balance of 2658.65 . as i am also an idfc first savings account holder i would request you to kindly process a refund against the credit balance in my credit card to my savings bank account details are as follows cc number 4015 6100 1605 7854 saving account number 10034765365 may kindly do the needful at the earliest . thanking you abhinav  - date is amount 8/2/23 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10034765365,
+Refund Amount :  2658.65, 
+Payment Date : 8/2/23
+"
+38,"utterance: credit card closer ref . no . 1035841005 - bank statement concern i have requested to close my credit card which is ending by 0761 so as per your customer care executive requirement here i am enclosing my 3 months working bank statement for returning the credit card balance amount . pls find the enclosed file and do the needful . suraj bajrangbali mishra mob 8356815001 , amount is 95000 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 1035841005,
+Refund Amount :  95000, 
+Payment Date : 3 months
+"
+39,"utterance: credit card closure request i have a savings bank account with your bank along with a first millennia credit card . card holder name sayanik mukherjee last four digit of cr card 8085 customer id 5593739345 i want to close my credit card permanently but there is a 98 rupees excess amount in the card for which i am unable to place a card closure request . i am also unable to use the amount as the card is permanently blocked . kindly do the needful and guide me to complete the process . date 19/8/22 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 5593739345,
+Refund Amount :  98, 
+Payment Date : 19/8/22
+"
+40,"utterance: date of the 8/2/23 credit card closure service request no 103366787 / vide reference to the no . mentioned above i am attaching scanned copy of cancelled cheque . kindly process the refund into the said account and oblige . Amount of 95000 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 103366787,
+Refund Amount :  95000, 
+Payment Date : 8/2/23
+"
+41,"utterance: Iam holding Ac.No. 10051941411. An amount of Rs.51,125/- is auto debited on 28/11 towards bajaj insurance without my consent.
+I like to check on this on emergency basis and reverse the amount debited. Also would like to enquire how and why this has happened.
+Expecting your immediate response and action.
+
+
+Ac.No. 10051941411 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10051941411,
+Refund Amount :  51,125, 
+Payment Date : 28/11
+"
+42,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I am writing to inform you that an IMPS transaction was made to the wrong account by mistake. The account details are as follows:
+
+Account Name: ABC Enterprises
+Account Number: 12345678901
+Transaction Details: IMPS/001223344556677/12-Jan-2023/XYZ Corp/1234567890
+Amount: Rs. 25,000/-
+Date: 12-Jan-2023
+Customer id: 8899201002
+Reached at: 9877321318
+PAN: ABCDE1234F
+
+We have already raised a dispute with the bank and are requesting you to kindly reverse the transaction as soon as possible. Your prompt response in this matter would be greatly appreciated.
+
+Thank you.
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number 12345678901 ,
+Refund Amount : 25,000
+Payment Date :12-Jan-2023"
+43,"utterance: 
+
+Context :Respected sir /ma'am , PAN: BOPPD1580N Customer Id: 5948442050 S/B account 10041799645. MOBIL NUMBER : 9838333374 Waiting for your reply regarding a transaction done on 2nd Oct 2022 of Rs. 12335.37 . Thanks & Regards Poonam Kamaliya 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10041799645 ,
+Payment date: 2nd Oct 2022"
+44,"utterance: 
+
+Context :Dear Sir/Madam,
+I am Not able to transfer fund in the account while online kyc completed 03 days before
+my account no is 10103505445 Name :- Man mohan, Mobile no:- 9667638131. Request you to kindly enable accounts for online transfer.
+
+Regards
+Man Mohan 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 10103505445
+45,"utterance: 
+
+Context :Dear sir
+You are requested to please approve my credit card, I have credit cards of almost all banks. But more offers come in your bank, please approve my application 0405112121
+Thanks and regard
+Pravesh uniyal
+Pan card AHXPU7361E
+Dob 20/06/1999
+Contact number 9149133650 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : : 0405112121
+46,"utterance: 
+
+Context :Dear Sir,
+We have received a request from customer Shri. Pradeep Kumar Chauhan regarding transaction of Rs. 30000/-, dated 18.11.2022 done through UPI mode from Phone Pe application. As per the application the account has been credit to wrong beneficiary, the details of which are as below :
+
+Name- Shri. Mahendra Mehra
+A/c no- 10105659416
+IFSC Code- IDFB0041103
+
+Please find attach the customer application and screenshot of the transaction. Kindly look into the matter and advice for process of reversal.
+
+
+Yours faithfully,
+YASH ANAMI
+Branch Manager / ???? ???????
+Defense Banking Branch SLI cantt / ?????? ??????? ?????? ????? ????
+Fatehgarh (10616) / ?????? (?????)
+8840441553 ,05692-297405
+????? ?? ???? ?? ?????? ???? ?? ???? ???????? ?? ????? ?????
+Please consider the environment before printing this email.
+
+
+The information in this mail is confidential and is intended solely for addressee. Access to this mail by anyone else is unauthorized. Copying or further distribution beyond the original recipient may be unlawful. Any opinion expressed in this mail is that of sender and does not necessarily reflect that of State Bank group.
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 10105659416 ,
+Refund Amount : 30000,
+Payment Date : 18.11.2022,
+"
+47,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I am writing to request for a loan from your bank. My name is John Doe and my Account Number : is 1234567890. I am in need of a personal loan for Rs. 50,000/- to cover some medical expenses. I have been a customer of your bank for over 5 years and my customer ID is 0987654321. My PAN number is XYZAB6789P.
+
+Please let me know if there is any further information or documentation required from my end. I look forward to hearing from you soon.
+
+Thank you. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 1234567890
+48,"utterance: 
+
+Context :Hi
+
+I'm Arjeet Biswal. I'm interested in IDFC First Credit Cards. I had previously applied for IDFC First Credit Card on 06th of February 2022. It's been more than 9 months but I'm unable to apply again for the same. I'm currently very much interested for applying for an IDFC First Bank Credit Card.
+
+I'm also getting promotional calls and messages from IDFC First Bank for a personal loan of Rs. 287000. That's why I would also like to get a offer regarding the IDFC First Bank Credit Card.
+
+I'm writing you the previous Account Number : for your reference below;
+Application Reference Number - 0402202345
+Contact Number - 9090343911
+PAN NO: DDWCH0856B
+Please help me regarding the same.
+
+Thank you & Regards
+Arjeet Biswal 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : : 0402202345
+49,"utterance: 
+
+Context :Regarding IDFC 3 in 1 account with ICICI Direct - Transaction debit/credit regarding
+
+Name : Saravanan Devarajan
+
+Mobile number : 9789987445
+
+Account Number - 10078102328
+
+Demat Account Number - 8508959001
+
+I am using IDFC 3 in 1 account. Some transactions which are debited for peak margin is not credited back. These transactions are showing as Failed in ICICI direct demat webpage. When i Contacted ICICI team , they are telling that they could not view the statement since its maintained by IDFC. No response for email communication also from ICICI direct. I have raised a complaint in NSE investor portal. I am enclosing all the documents for your reference. Kindly help to recover my hard earned money.
+
+Thank you
+
+D Saravanan
+
+
+
+
+- Forwarded message 
+From: <donotreply@icicibank.com<mailto:donotreply@icicibank.com>>
+Date: Tue, 25 Oct 2022 at 16:38
+Subject: Re: Transaction debit and credit mismatch
+To: saravanan devarajan <srvnnmbbs@gmail.com<mailto:srvnnmbbs@gmail.com>>
+
+
+Dear Customer.
+
+Thank you for writing to ICICI Securities Ltd. We acknowledge the receipt of your communication.
+
+We will attend and revert to your email in 2 business days.
+
+We thank you for your patience and co-operation.
+
+Sincerely,
+
+Customer Service Team
+ICICI Securities Limited
+
+This is a system-generated e-mail. Please do not reply to this e-mail.
+
+-- Original Message --
+From: saravanan devarajan <srvnnmbbs@gmail.com<mailto:srvnnmbbs@gmail.com>>
+To: helpdesk@icicidirect.com<mailto:helpdesk@icicidirect.com>
+Cc: coo@icicidirect.com<mailto:coo@icicidirect.com>, complianceofficer@icicisecurities.com<mailto:complianceofficer@icicisecurities.com>, isec.ceo@icicisecurities.com<mailto:isec.ceo@icicisecurities.com>
+Sent: Tuesday, October 25, 2022 4:32:55 PM GMT+05:30
+Subject: Transaction debit and credit mismatch
+
+>""External Email Warning: Do not click on any attachment or links/URL in this email unless sender is reliable.""
+>
+>Devarajan Saravanan
+> PAN NO: CWUBE5263D
+>Demat ID - 8508959001
+>
+>Transactions dated below are debited but not credited back in my account.
+>
+>05-09-2022 Rs 161925.45
+>07-09-2022 Rs 10585.65
+>14-09-2022 Rs 37278.02
+>27-09-2022 Rs 26660.88
+>03-10-2022 Rs 162231.84
+>03-10-2022 Rs 15075.53
+>08-10-2022 Rs 50373.31
+>
+>Transaction dated below is debited twice
+>
+>10-09-2022 Rs 13224.03
+>14-09-2022 Rs 13224.03
+
+[Peak Margin.PNG]
+
+[MCX Peak margin 1.PNG]
+
+[MCX peak margin 2.PNG] 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 10078102328
+50,"utterance: 
+
+Context :Subject: Complaint regarding unauthorized transaction
+
+Dear Support Team,
+
+I am writing this email to raise a complaint regarding an unauthorized transaction from my account. My customer ID is 8752983264, and my account number is 45678901234. On 22nd February 2023, an amount of Rs. 8,000 was debited from my account without my knowledge or consent. I have already checked with my family members and confirmed that no one has made this transaction. I have attached a copy of my passbook for your reference.
+
+I would appreciate it if you could look into this matter as soon as possible and provide me with the details of this transaction. Please feel free to contact me on my mobile number 9876543210. Additionally, my PAN number is XYZAB1234F.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Ankit Singh
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 45678901234
+51,"utterance: 
+
+Context :Dear sir/mam,
+I would like to bring to your kind notice that i have applied loan from MANAPPURAM FINANCE and also i got approval message yesterday at 01.11 pm. Now they credited my loan amount (Rs. 935993)in my IDFC bank account.We regret to inform you that till date the said amount has not been credited to my account.
+Therefore, you are requested to kindly look into the matter and do the needful at the earliest. Your immediate action in the matter will be highly appreciated.
+I hereby attached my bank account details as well as MANAPPURAM FINANCE transaction details for your reference.
+
+Account Name : Ganimozhi Sathiyendran
+Account number : 10058567263
+IFSC code: IDFB0080551
+Customer id : 5547388277
+Branch : Madurai.
+
+Sender details :
+SENDER TRANSACTION ID : 7146468
+Amount : Rs.9,35,993
+Corporate ID : MANAPPURAM32924944.
+Date of transaction: Nov 15, 2022
+Time of transaction :13:07:24
+
+Thanking you.
+Yours faithfully,
+Ganimozhi Sathiyendran. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 10058567263
+52,"utterance: 
+
+Context :Dear Sir/Madam,
+
+Our customer wrongly payment of Rs.25000/- and Rs.500/- on 25.11.2022 thorugh phone pay ap to mobile number : 8105359232 K Naveen kumar Account Number is 10063187672, that account belongs to IDFC first bank.
+IFSC CODE: IDFB0040101.
+Kindly keep hold to this account and transfer to below account number of 20339871113 IFSC COE: SBIN00014414.
+
+Customer Name: Sepoy Meka Bhairaveswara reddy
+Account Number: 20339871113
+Phone Number:9989851990
+IFSC CODE: SBIN00014414
+
+Kindly do the needul.
+Thanks in advance
+
+
+Regards
+
+
+Branch Manager,
+Obuladevara cheruvu(Branch Code:14414)
+Phone number:8330904686
+
+The information in this mail is confidential and is intended solely for addressee. Access to this mail by anyone else is unauthorized. Copying or further distribution beyond the original recipient may be unlawful. Any opinion expressed in this mail is that of sender and does not necessarily reflect that of State Bank group.
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 20339871113
+53,"utterance: 
+
+Context :Dear Sir,
+We have a saving account in your branch vide Custimer id 5581057720 and account number 10070244724.
+
+I was trying to make a lic premium payment of Rs 167865.87 from this account which is much less than both my Net banking limit and my card limit through the portal of LIC.
+But the message I got is that "" You seem to have exceeded the per transaction limit.Please modify the amount and try"". 
+
+I have enclosed the picture of the message.
+Kindly please help to set my per Transaction limit. I am unable to find it in your portal.
+pan number BHIFZ4171I
+Its very urgent.
+
+Awaiting your reply.
+
+Thanks & Regards
+
+VIPUL KUMAR
+9810024522. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 10070244724
+54,"utterance: 
+
+Context :Can u please check my application 0407351857 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0407351857 ,
+"
+55,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I am writing to you to enquire about some charges that have been levied on my account. I hold an account with your bank with account number 56789012345 and my customer ID is 2345678901. I noticed that an amount of Rs. 500 has been deducted from my account on 15th February 2023 without any prior information or explanation. I have attached a copy of my passbook for your reference.
+
+I would appreciate it if you could let me know the reason for the deduction of this amount. I would also request you to kindly refund the amount if the charges are not justified. If you require any further information, please feel free to contact me on my mobile number 9876543210. Also, please note that my PAN number is XYZAB1234F.
+
+Thank you for your time and attention. I look forward to hearing from you soon.
+
+Sincerely,
+
+Surbhi Singh 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 56789012345
+56,"utterance: 
+
+Context :Hi team,
+
+I am not able to do any kind of transactions by using Google pay/Phone pay/Paytm.
+
+
+Account Number : 1004680287
+
+. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number: 1004680287 ,
+"
+57,"utterance: 
+
+Context :Hello,
+I am Mohammed Ali, account holder of IDFC Bank. I have received an inward remittance of USD 102.39.
+My Account Details as follows:-
+Account Number : 10045775223
+Registered mobile no. 9620072147
+I have filled in the required details. Please find below the same and let me know if things are correct.
+
+Please transfer the amount to my account as early as possible.
+
+Thank you
+
+
+
+
+
+
+DISPOSAL REQUEST FOR INWARD REMITTANCES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GST State :
+
+Delhi
+
+
+
+
+
+
+
+GST Number :
+
+NIL
+
+
+
+
+
+
+
+IEC Code (If Applicable):
+
+
+
+
+
+
+
+
+
+Currency :
+
+USD
+
+
+
+
+
+
+
+Amount :
+
+102.39
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit ?USD 102.39 ???????......( Amount) To Our Account Number 10045775223????..??????................. maintained with IDFC FIRST Bank Ltd.
+
+
+
+
+
+
+
+Credit ????????......( Amount) To Our EEFC Account Number ?????...........????...?? maintained with IDFC FIRST Bank Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose code:
+
+P1007
+
+.......................(Code2)
+
+.......................(Code3)
+
+
+
+
+
+
+
+
+
+Purpose of Remittance :
+
+Advertising
+
+.......................(Code2)
+
+.......................(Code3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amount ( To be bifurcated in case of Multiple Purpose code) :
+
+????????..(Code1)
+
+.......................(Code2)
+
+.......................(Code3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please fill below for payment for Export of Services - (applicable for Purpose code group 02, 03, 05, 06, 07, 08, 09, 10, 11, 15, 16 or 17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of the country to which ultimate services provided: ?.........................
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deal id ( If any) :
+
+?.......................(Deal1)
+
+?.................(Amount1)
+
+
+
+
+
+
+
+
+
+?.......................(Deal2)
+
+?.................(Amount2)
+
+
+
+
+
+
+
+...
+--
+
+
+Thanks & Regards,
+Mohammed Ali
+Contact no: +91 9620072147
+Email : alisubhani313@gmail.com<mailto:alisubhani313@gmail.com>
+
+--
+
+
+Thanks & Regards,
+Mohammed Ali
+Contact no: +91 9620072147
+Email : alisubhani313@gmail.com<mailto:alisubhani313@gmail.com> 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number:10045775223
+"
+58,"utterance: 
+
+Context :Shashank Singh
+7879773959
+
+30/09/1997
+
+Salaried -42750/-
+Company - Ruchi soya limited
+
+Account Number : 0402396698
+
+I am unable to fill my correct information to apply idfc credit card, please check and help me to fill my correct information 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 0402396698
+59,"utterance: 
+
+Context :For reference
+
+My account number:10043731345<tel:10043731345>
+Customer Id: 1501862809
+Pancard Number: VXDBU7816Q
+On Mon, 28 Nov, 2022, 11:35 am Maaz Siddiquek, <maazsiddiquekathikar@gmail.com<mailto:maazsiddiquekathikar@gmail.com>> wrote:
+Dear sir,
+
+As I did a transaction on 24th November at 6:38 PM of rupees 6546/- and the transaction was not successful but my account got debited instantly then I made a call to customer service and raise a service request and it's four days since that SR and still didn't get anything regarding the transaction and it's important and big transaction for me and I wanted to do that transaction again. So I request you please credited my account as soon as possible with the amount
+
+Thanking you 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 10043731345
+60,"utterance: 
+
+Context :Actually mene IDFC FIRST credit card ke liye apply kiya tha or meri verification pending reh gyi thi ofc address verified Nhi hua tha
+My application no. Is 0403476103
+My PAN NO XGZFE7225A
+
+
+Actually jb mere pass call aaya ap logo ki side se to mene clear kr diya tha ke mera work from home hai or meri official mail id Priyankaverma.anie123@gmail.com<mailto:Priyankaverma.anie123@gmail.com> hai
+
+
+To ap log mail id se bhe verification kr skte ho 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 0403476103
+61,"utterance: 
+
+Context :
+Hello dear Sir / madam
+I m very sorry i m not able to reach u via phone.
+Credit Card number Account Number ::-0407235730
+
+While i m trying to change the address for credit card delivery its not accepting my address.
+can you send my credit card to mentioned Address?
+
+
+JAYNAGAR (SUB OFFICE), MADHUBANI, BIHAR (BR), India (IN), Pin Code:- 847226
+Railway Station Road.
+Contact:- 8122129116
+Alternative number :- 9097411829 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 0407235730
+62,"utterance: 
+
+Context :Dear Team,
+
+I am holding below account with idfc first bank Chandkheda branch my account no is 10101274554, I have tried to fetch my detail in NJ Wealth application since last 2 month but is shows mismatched error. Please check attached screenshot.
+
+Request you to please check and update on priority basis.
+
+
+
+
+Thanks & Regards,
+Priyanka 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number :10101274554 ,
+"
+63,"utterance: 
+
+Context :Hi
+
+As discussed PFA
+
+Regards
+Chethan KN
+
+On Sat, Nov 19, 2022 at 3:06 PM Advaith solution <advaith986@gmail.com<mailto:advaith986@gmail.com>> wrote:
+Hi Team,
+
+Kindly Awaiting for your Response.
+
+Regards,
+Chethan
+
+On Thu, Nov 17, 2022 at 4:03 PM Advaith solution <advaith986@gmail.com<mailto:advaith986@gmail.com>> wrote:
+Name : Advaith Staffing Solution.
+Customer Id : 5749531514
+
+Please find the below query and need your support quickly.
+
+Bulk Transaction Amount : 5239.00 Transaction Date 12.11.2022 - Not reversed or credited to the beneficiary.
+
+File name
+INSTAB_20221111.xlsx
+File reference number
+OPT871718
+Debit account
+10083156140
+Note
+
+INSTANINJA111122
+
+
+Regards
+Chethan KN
+9164500001
+
+On Tue, Sep 13, 2022 at 4:11 PM Advaith solution <advaith986@gmail.com<mailto:advaith986@gmail.com>> wrote:
+PFA
+
+- Forwarded message 
+From: Advaith solution <advaith986@gmail.com<mailto:advaith986@gmail.com>>
+Date: Tue, Sep 13, 2022 at 11:18 AM
+Subject: Transaction Issue
+To: <banker@idfcfirstbank.com<mailto:banker@idfcfirstbank.com>>
+
+
+Name : Advaith Staffing Solution.
+Customer Id : 5749531514
+
+Please find the below query and need your support quickly.
+
+Bulk Transaction Amount : 54964.00 Transaction Date 13.09.2022 - Not reversed or credited to the beneficiary.
+
+File name NINJDL_20220912.xlsx
+File reference number OPT700506
+Debit account 10083156140
+Note NINJADL AUG100922
+
+
+Regards
+Chethan KN
+9164500001 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10083156140
+64,"utterance: 
+
+Context :Subject: Complaint regarding fund deduction from Loan Account
+
+Dear Customer Support Team,
+
+I am writing to you today to raise a complaint regarding the deduction of funds from my loan account number 23456789013. As a customer of your bank, my customer ID is 4567890123. I noticed that an amount of Rs. 10,000 was debited from my account on 20th February 2023 without my knowledge. I have attached a copy of my passbook for your reference.
+
+I request you to kindly look into the matter and provide me with the details of the transaction. If required, please contact me on my mobile number 9876543210. Also, please note that my PAN number is XYZAB1234F.
+
+I look forward to a prompt resolution of this issue.
+
+Thank you for your time and attention.
+
+Sincerely,
+
+Priya Sharma
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :23456789013
+65,"utterance: 
+
+Context :Reference is made to application for Credit Card No. 0406384609
+
+I would like my address to get verified again as I am out of town due to service requirement.I am unable to contact the customer care service on toll free number provided by you.
+
+Pls update me regarding current status of my application.
+Also I want add some additional details in my office adress where card needs to be delivered.
+
+
+Thanks and regards 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0406384609 ,
+"
+66,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I am writing to inform you that a transaction was made from my account by mistake. The transaction details are as follows:
+
+Account Name: XYZ Ltd.
+Account Number: 98396242711
+Transaction Details: NEFT/001122334455667/20-Feb-2023/ABC Corp/7654321098
+Amount: Rs. 50,000/-
+Date: 20-Feb-2023
+Mobile Number: 9876543210
+PAN: ABCDE1234F
+
+I have already raised a dispute with the bank and am requesting you to kindly reverse the transaction as soon as possible. Your prompt response in this matter would be greatly appreciated.
+
+Thank you. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :98396242711
+67,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I am writing to inform you that an IMPS transaction was made to the wrong account by mistake. The account details are as follows:
+
+Account Name: ABC Enterprises
+Account Number: 12345678903
+Transaction Details: IMPS/001223344556677/12-Jan-2023/XYZ Corp/1234567890
+Amount: Rs. 25,000/-
+Date: 12-Jan-2023
+Customer id: 6456881245
+Reached at: 8876654356
+PAN: ABCDE1234F
+
+We have already raised a dispute with the bank and are requesting you to kindly reverse the transaction as soon as possible. Your prompt response in this matter would be greatly appreciated.
+
+Thank you.
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :12345678903
+68,"utterance: 
+
+Context :Dear sir,
+
+This is to confirm you that I, Sayan Karmakar bearing account number - 10107634079 would like to tell you that I've scheduled for a transfer of money to a beneficiary on 18th. of November, 2022 to be credited on 26th. of November, 2022, abounding to Rs - 6980, but the account had never got transferred and is also not reflecting anywhere in my account statement.
+
+I've done similar transaction of Rs. 1 to another beneficiary which successfully got transferred and is also reflecting in my account.
+
+I'm attaching the necessary screenshots in the mail for the same for your reference.
+
+Also, for your information, the money has been deducted from my account but has never reached to the first beneficiary.
+
+Request you to kindly look into the matter with highest priority and do the needful so that I get back my money at the earliest.
+
+Thanking you,
+Sayan Karmakar 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10107634079
+69,"utterance: 
+
+Context :Hi Team,
+
+I am holding a corporate salary account with IDFC Account.
+Name: Singupilla Santosh Kumar
+Account Number : 10064022878
+Mobile Number : 9880388454
+
+and my father is also holding a savings account and was not able to maintain the balance, so i was maintaining the account from my end. So the bank staff told that he can update the mobile number to mine(9880388454), so that i can use it going forward, even though my father updated his mobile number. I am not able to map the account to my Gpay account and getting an attached error message
+
+Below are my father's account details.
+Name : singupilla venkata rao
+Account number: 10075684535
+Mobile number:9880388454
+
+Request you to please do the needful and help me with the above issue.
+
+Thanks and Regards
+Santosh S
+9880388454 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10075684535
+70,"utterance: 
+
+Context :Sir,
+I have a/c No. 10104612388 Customer Id 6029788686 having FD of Rs. 25,000/- and saving balance of Rs. 47,675.11.
+I applied for credit card on 13.11.2022. All verifications are done by your bank. Today also one fellow came after 6 pm in my office for verification. Thereafter, I got this msg ""We are unable to process app no. 0406798092 for IDFC FIRST Bank Credit Card due to internal Bank policy. We are working hard to bring an offer for you shortly.""
+I want to say that if my application was not as per internal bank policy, then why the KYC verfication, office verification is done by the bank by wasting everyone's valuable time.
+This is surprising to me being a 'State Government Employee' your bank allows me to open an a/c but not ready to give me credit card. So give me your internal bank policy, so that I can check the criteria for issuing credit card.
+Even I will close down my a/c with your bank & also convey my experience to friends whom I made reference to not to opt.
+Take note of this.
+
+Regards,
+Suvarna Joshi.
+Deputy Charity Commissioner. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0406798092 ,
+"
+71,"utterance: 
+
+Context :Dear team,
+Credit card Account Number :: 0407009421
+Video kyc everything finished and still not verifyed please kindly do needful 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0407009421 ,
+"
+72,"utterance: 
+
+Context :Hi,
+
+This sureshbabu, my UPI not working
+past 5 days..plc resolve immediately
+Mobile. 9482848967
+pan no. OSVPU3060K
+Ac no. 10031964363
+
+
+Regards,
+Suresh. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10031964363
+73,"utterance: 
+
+Context :Dear Tea,
+Greetings.
+This mail is to bring in your kind knowledge that I ?Pushkar Jaiswal? have a saving account in your Khandwa (m.p) branch. My saving account no. is ?10090722049?. I made some online purchases in Myntra App which I later returned against which they refunded me. But the amount is not reflecting in my account. On speaking to their toll free no, they guided me that sometimes it takes 10-15 working days to get the amount reflected. If after that the amount is not reflecting then bank can explain why amount is not reflecting in my account. My pan no. is ZWRAN7483X
+
+Please find below the date, amount & bank reference number against which they have initiated the amount & I request you to kindly resolve the issue at the earliest.
+Date Amount Bank Ref. No.
+11.10.22 1439/- 228434309721
+11.10.22 1879/- 228434377595
+11.10.22 874/- 228434256009
+
+15.10.22 1879/- 228842596840
+15.10.22 874/- 228842693889
+15.10.22 1439/-
+Kindly resolve the issue at the earliest.
+
+Regards
+Pushkar Jaiswal
+Mob : 7000-760516 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10090722049
+74,"utterance: 
+
+Context :Dear
+Sir/Madam
+I am an a/c holder in your bank since last 2 years . My saving/current a/c number is 10028661331 party trying send me neft amount I didn't received amount last 1 week
+
+my pancard details UVCLM3863O
+Please provide an update on priority basis
+
+
+Thank you,
+Ranjit Gawade 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10028661331
+75,"utterance: 
+
+Context :Dear Idfc First Bank Team,
+I am feeling very disappointed today after getting a message that my credit card application has been declined. I had given all the correct information during apply. But still it was declined from your side. Every information is correct and genuine in this case. I think it may be due to some technical error.
+Therefore, I request you kindly to reopen my application and approve my application.
+I will really be thankful to you for your act of kindness.
+Thank you
+Yours sincerely,
+Vikash Kumar Pandey
+Card Account Number :- 0407228435
+Registered mobile number- 9628648734 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 0407228435
+76,"utterance: 
+
+Context :Subject: Request for clarification on fund deduction
+
+Dear Sir/Madam,
+
+I am writing to seek clarification regarding a deduction of funds from my account. My customer ID is 7693572421, and I hold an account with your bank with the account number 34567890123. I noticed that an amount of Rs. 5,000 was deducted from my account on 18th February 2023 without any prior intimation. I have attached a copy of my passbook for your reference.
+
+I would be grateful if you could please provide me with the details of this transaction and explain the reason behind the deduction. In case of any query, you can contact me on my mobile number 9876543210. Additionally, my PAN number is XYZAB1234F.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+
+Shalini Desai 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :34567890123
+77,"utterance: 
+
+Context :Dear IDFC first,
+
+This is in reference to my application for IDFC first bank credit card with Account Number : 0406402415 which has been rejected due to 'internal policy'.
+
+I was called for address verification during odd times (office address on weekend & home address on weekdays) and there was no option to reschedule it.
+
+So I would like to withdraw my application and request you to delete my application data. Also request you to not contact me further in this regard.
+
+Regards,
+Asad Azhar
+
+- Forwarded message 
+From: <noreply@idfcfirstbank.com<mailto:noreply@idfcfirstbank.com>>
+Date: Wed, 2 Nov, 2022, 5:34 pm
+Subject: Notification on your Credit Card Application Status
+To: <asadazhar001@gmail.com<mailto:asadazhar001@gmail.com>>
+
+
+[https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fidfcfirstbank-cc.my.salesforce.com%2Fservlet%2Fservlet.ImageServer%3Fid%3D0152v00000HQp89%26oid%3D00D2v000002FKdu&amp;data=05%7C01%7CBanker%40idfcfirstbank.com%7Cc2b6aca0ce0540226dd008dabf313637%7Caacf45a2f78b4172a6efda9d32705bc1%7C0%7C0%7C638032515328311323%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=UxX%2F%2Bs2HGKAiiCHkR%2Fo%2FojTMSgrpgvmq2m8hA0P0pqc%3D&amp;reserved=0]
+Dear Customer,
+
+Greetings from IDFC FIRST Bank.
+
+Thank You for your interest in IDFC FIRST Bank Credit Card. We are unable to process your Account Number : 0406402415 due to internal policy criteria.
+
+We look forward to service you in the future.
+
+
+Always You First,
+Team IDFC FIRST Bank
+Click here<https://ind01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdelivery.idfcfirstbank.com%2FGKNAFZCYJRXL%3Fid%3D143741%3DbUUAAgMBVgZQHkYZEEITEhhEF0MYFxMWEhRGFhkWERAYGRATFxJBEkFCRhkQQhMSGFRLAktWV1dIXAdECQYAcF9UUVpbHAJdDB5XDwZVAAAAVwBTCQIFAgAEVkpRQkVAAhYfV1JeCEQEEB8XWQZVUV4NRRBMVVJYWRoFWVQZdnt2eHZpdGsrYDkuWVBUHkUB&amp;data=05%7C01%7CBanker%40idfcfirstbank.com%7Cc2b6aca0ce0540226dd008dabf313637%7Caacf45a2f78b4172a6efda9d32705bc1%7C0%7C0%7C638032515328311323%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ZtJOAicEKwYGtB4jfdD1TlTverZwOLb76dSq%2FRlHlsY%3D&amp;reserved=0> to unsubscribe[https://ind01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdelivery.idfcfirstbank.com%2FGKNAFZCYJRXL%3Fid%3D143741%3Dd0UAAgMBVgZQHkYZEEITEhhEF0MYFxMWEhRGFhkWERAYGRATFxJBEkFCRhkQQhMSGFRLAktWV1dIXAdECQYAcF9UUVpbHAJdDB5XDwZVAAAAVwBTCQIFAgAEVkpRQkVAAhYfV1JeCEQEEB8XWQZVUV4NRRBMVVJYWRoFWVQZdnt2eHZpdGsrYDkuWVBUHkUB&amp;data=05%7C01%7CBanker%40idfcfirstbank.com%7Cc2b6aca0ce0540226dd008dabf313637%7Caacf45a2f78b4172a6efda9d32705bc1%7C0%7C0%7C638032515328311323%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=VkGtQkFtvEtraRJHjVk2Dbnnf2Zlv0XB%2Fy5CW05cTD4%3D&amp;reserved=0] 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0406402415 ,
+"
+78,"utterance: 
+
+Context :Hello Team,
+
+I am Sourabh Shirshikar, i applied for credit card on 21 Nov. 2022.
+Account Number : 0407146705.
+But it is hold for address verification. So I request you please complete address verification.
+Pan Card Details: NLXBC1905E
+Regards,
+Sourabh Shirshikar 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number : 0407146705
+79,"utterance: 
+
+Context :Name : Advaith Staffing Solution.
+Customer Id : 5749531514
+
+Please find the below query and need your support quickly.
+
+Bulk Transaction Amount : 5239.00 Transaction Date 12.11.2022 - Not reversed or credited to the beneficiary.
+
+File name
+INSTAB_20221111.xlsx
+File reference number
+OPT871718
+Debit account
+10083156140
+Note
+
+INSTANINJA111122
+
+
+Regards
+Chethan KN
+9164500001
+
+On Tue, Sep 13, 2022 at 4:11 PM Advaith solution <advaith986@gmail.com<mailto:advaith986@gmail.com>> wrote:
+PFA
+
+- Forwarded message 
+From: Advaith solution <advaith986@gmail.com<mailto:advaith986@gmail.com>>
+Date: Tue, Sep 13, 2022 at 11:18 AM
+Subject: Transaction Issue
+To: <banker@idfcfirstbank.com<mailto:banker@idfcfirstbank.com>>
+
+
+Name : Advaith Staffing Solution.
+Customer Id : 5749531514
+
+Please find the below query and need your support quickly.
+
+Bulk Transaction Amount : 54964.00 Transaction Date 13.09.2022 - Not reversed or credited to the beneficiary.
+
+File name NINJDL_20220912.xlsx
+File reference number OPT700506
+Debit account 10083156140
+Note NINJADL AUG100922
+
+
+Regards
+Chethan KN
+9164500001 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10083156140
+80,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I had made a payment at a retail store by Phone pe linked with my IDFC FiRST BANK savings account no 10050305849.
+
+Unfortunately transaction was failed but amount was debited from my account.
+Please find below details
+
+Date 31/07/2023
+Amt 882.56
+Ref no 221202262844
+pan no. UEZFC0351V
+Please find attached screenshot where Phone pe has refunded me the amount but credit is still not credited in my IDFC FIRST BANK ACCOUNT.
+
+Kindly do the needful for credit of disputed amount.
+
+Regards,
+Vrajlal Devshibhai Patel 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10050305849
+81,"utterance: 
+
+Context :Sir,
+On my request my paytm account had been blocked on 13thJuly 2022 by Paytm due to some unauthorised transcition held by some fraudester in Paytm account.I also duly informed to you because my account was linked by IDFC first bank.But on requesting to unblock my Paytm account to Paytm support system they are asking to issue an NOC by IDFC first bank to their official email id.Here I am annexing the screen shot.
+Kindly issue an NOC to Paytm to unblock my account.
+
+Regards
+
+Prakash Chand Gupta
+Mobile no.9413621768
+My saving Account no.10060766967 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number :10060766967 ,
+-- Mobile Number 9413621768,
+"
+82,"utterance: 
+
+Context :Dear Sir,
+
+This is to inform you that I have a Saving Account in your Prestigious Branch. My Account No. is 10095753197, IFSC Code:- IDFB0021174, ID:- 5901777997, I would like to Request you to my vendor send the payment in my account for last few days but Payment not showing in my account till dated
+
+--
+Regards.
+
+
+AVNINDER SINGH
+Accountant & Auditor
+[Payment.jpeg] 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10095753197
+83,"utterance: 
+
+Context :Dear Sir,
+
+We have made an IMPS transaction in the wrong account erroneously. We have informed to the Bank and raised the dispute within 15-30 minutes itself.
+
+You are requested to kindly reverse the IMPS Transaction asap. Details of our account and transaction are as follows
+
+Account Name : Arbuda Agrochemicals Pvt Ltd
+PAN number: KLOBP7797X
+Account Number : 10028130138
+
+Transaction Details : DEBIT VIA INTERNAL T-IMPS-RIB/Fund Trf/233213004074/GOLDY DAWAR/13542413000333PUNB/Adv
+
+Amt : ?55,477.00
+
+Your Prompt and Positive response will be highly appreciated.
+
+Rita Patel / Mukesh Patel
+Mob No. 96196 26196 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10028130138
+84,"utterance: 
+
+Context :My name is Amit kumar sayal and my account no. 10054945526 , IFSC Code IDFB0020128.
+
+Recently your bank has debited rs.250/- from an account in the name of gaana subscription fee for which i don't give any consent to your bank and neither provided to gaana app. Also i do not provide any account details on gaana app.
+You are requested to credit back this amount and forfeit this auto debit subscription fee for future payment for this app. 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10054945526
+85,"utterance: 
+
+Context :Please cancel my Previous Request,My Request no-1029756632.Removed Hold Amount In Account As Soon as possible.
+Name-Nagendar Rai
+AC -10093990389
+Cost ID-5948442050
+Mob-9040638289 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10093990389
+86,"utterance: 
+
+Context :Dear Sir/Madam,
+
+I am writing to inform you that there has been an unauthorized transaction made from my account. My account number is 01234567890 and my customer ID is 9876543210. On 10-Feb-2023, there was a debit of Rs. 10,000/- from my account, which I did not authorize. I have already contacted your customer service helpline and they have suggested that I raise a dispute. Please find attached a copy of my passbook for your reference.
+
+I request you to kindly investigate this matter and take appropriate action to resolve it. Please let me know if there is any further information or documentation required from my end.
+
+Thank you for your prompt attention in this matter.
+
+Sincerely,
+
+Jane Doe
+ 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :1234567890
+87,"utterance: 
+
+Context :Dhiren Majithia.
+Account no. 10000541693.
+Customer no. 1000783094.
+pan no. RQNAU2286P
+Dear team,
+Good day,
+Surprisingly my transactions via Bhim upi are getting failed,
+
+1st transaction for Rs. 4000/- was successful but 2nd transaction for Rs. 9000/- to the same person getting failed.
+
+Attached herewith is the screenshots of both the transactions.
+
+Please help ASAP.
+
+Thanks and regards,
+Dhiren Majithia.
+
+Sent from Yahoo Mail on Android<https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.onelink.me%2F107872968%3Fpid%3DInProduct%26c%3DGlobal_Internal_YGrowth_AndroidEmailSig__AndroidUsers%26af_wl%3Dym%26af_sub1%3DInternal%26af_sub2%3DGlobal_YGrowth%26af_sub3%3DEmailSignature&amp;data=05%7C01%7Cbanker%40idfcfirstbank.com%7Cc124ce0979cb454d63c508dace135e64%7Caacf45a2f78b4172a6efda9d32705bc1%7C0%7C0%7C638048879904715034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=34QEE4PcgGhWtGyPJkKEfRMa8sxW9b5Q0PWZLOqwCko%3D&amp;reserved=0> 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10000541693
+88,"utterance: 
+
+Context :Hello,
+
+I am getting this error message while transferring the money. Please look into it.
+
+S/B account 10041799645
+PAN NO: CBEGZ6088H
+
+
+[image.png]
+
+
+[image.png]
+
+--
+Samaresh Saha
+Ph: 516 584-8838 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above",Account Number :10041799645
+89,"utterance: 
+
+Context :Dear Sir/Ma'am,
+
+I am writing to request a correction to my credit card application. I applied for IDFC credit card and by mistake I entered my yearly income instead of monthly.
+
+My card Account Number : is 0407227197. I would be most grateful if you could make this change for me, so that I can continue with the process of applying for the card.
+
+I look forward to hearing from you soon!
+
+Best regards,
+Harsh Bajaj 
+ Extract entities - Account Number, Refund Amount , Payment Date from the Utterances given above","Account Number : 0407227197 ,
+"
