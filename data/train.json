@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "summary": "capital of India is New Delhi",
+    "dialogue": "Hi have you heard of the capital of India which is New Delhi"
+  },
+  {
+    "id": "2",
+    "summary": "Capital of Odisha is Bhubaneswar",
+    "dialogue": "Hi do you know about capital of Odisha is Bhubaneswar and it is also known as temple city of India."
+  },
+  {
+    "id": "3",
+    "summary": "first emperor of the Maurya Dynasty is Chandragupta Maurya ",
+    "dialogue": "Chandragupta Maurya "
+  },
+  {
+    "id": "4",
+    "summary": "The ancient Indian text is considered the oldest surviving scripture in the world is Rigveda",
+    "dialogue": "Rigveda "
+  }
+]

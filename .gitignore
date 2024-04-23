@@ -1,0 +1,14 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore files in the "logs" directory
+logs/
+
+# Ignore a specific file
+secret.txt
+
+# Ignore all files in a directory, but not the directory itself
+my_directory/*
+
+
+*.pkl
